@@ -5,9 +5,11 @@
 # Environment Variable
 
 - Buat sebuah environment variable dengan nama "SECRET_KEY"
-    Contoh :
-        Misal pada Mac bisa dengan edit file ~/.profile
-        tambah export SECRET_KEY="Your-Secret-Key", lalu save file tersebut
+    Contoh : \
+        Misal pada Mac bisa dengan edit file ~/.profile \
+        tambahkan line berikut ini \
+        export SECRET_KEY="Your-Secret-Key", \
+        lalu save file tersebut \
 
 # Database 
 - database yang digunakan adalah mysql
