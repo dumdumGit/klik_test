@@ -12,7 +12,9 @@
         lalu save file tersebut \
 
 # Database 
-- database yang digunakan adalah mysql dengan nama klik_test
+- database yang digunakan adalah mysql dengan nama **klik_test**
+- Edit File main.go pada line:25
+- Sesuaikan string **root@r00tp4ss** dengan **userDBAnda@passwordDBAnda**  
 
 # Run Project
 - go run main.go
