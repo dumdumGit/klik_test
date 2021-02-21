@@ -17,3 +17,5 @@
 # Run Project
 - go run main.go
 
+# Doc
+- Postman Doc (https://documenter.getpostman.com/view/2296410/TWDXoGnM)
