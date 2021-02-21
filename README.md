@@ -12,7 +12,7 @@
         lalu save file tersebut \
 
 # Database 
-- database yang digunakan adalah mysql
+- database yang digunakan adalah mysql dengan nama klik_test
 
 # Run Project
 - go run main.go
